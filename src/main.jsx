@@ -43,8 +43,8 @@ const App = () => {
       {/* --- HEADER --- */}
       <header className="header container">
         <div className="logo-area">
-          <img src="/public/assets/logo made in devs - png - Copia.png" alt="Logo" className="logo" />
-          <img src="/public/assets/logo made in devs - png - text.png" alt="Logo" className="logo-text" />
+          <img src="/assets/logo made in devs - png - Copia.png" alt="Logo" className="logo" />
+          <img src="/assets/logo made in devs - png - text.png" alt="Logo" className="logo-text" />
         </div>
         
         <nav className="navbar">
@@ -99,7 +99,7 @@ const App = () => {
 
         {/* Coluna da Direita (Imagem Principal do Notebook + Celular) */}
         <div className="hero-image-area">
-          <img src="/public/assets/imagem inicio.png" alt="Imagem Principal" className="hero-image" />
+          <img src="/assets/imagem inicio.png" alt="Imagem Principal" className="hero-image" />
         </div>
 
       </section>
@@ -156,7 +156,7 @@ const App = () => {
         <div className="about-grid" >
           <div className="about-image-area">
             
-              <img src="/public/assets/logo made in devs - png.png" alt="Sobre Nós" className="about-image" />
+              <img src="/assets/logo made in devs - png.png" alt="Sobre Nós" className="about-image" />
             
           </div>
 
@@ -266,7 +266,7 @@ const App = () => {
 
           <div className="project-card">
             <div className="project-thumb">
-              <img src="/public/assets/estilo.png" alt="Preview Loja Virtual" className="project-img" />
+              <img src="/assets/estilo.png" alt="Preview Loja Virtual" className="project-img" />
             </div>
             <div className="project-info">
             <span className="project-category">Identidade Visual</span>
@@ -277,7 +277,7 @@ const App = () => {
           {/* Card Projeto 2 */}
           <div className="project-card">
             <div className="project-thumb">
-              <img src="/public/assets/dr.patricia.png" alt="Preview LP Automotiva" className="project-img" />
+              <img src="/assets/dr.patricia.png" alt="Preview LP Automotiva" className="project-img" />
             </div>
             <div className="project-info">
               <span className="project-category">Site - Odontológico</span>
@@ -289,7 +289,7 @@ const App = () => {
           {/* Card Projeto 3 */}
           <div className="project-card">
             <div className="project-thumb">
-              <img src="/public/assets/logomarca made in dev's.png" alt="Preview Plataforma de Gestão" className="project-img" />
+              <img src="/assets/logomarca made in dev's.png" alt="Preview Plataforma de Gestão" className="project-img" />
             </div>
             <div className="project-info">
               <span className="project-category">Identidade Visual</span>
@@ -301,7 +301,7 @@ const App = () => {
           {/* Card Projeto 4 */}
           <div className="project-card">
             <div className="project-thumb">
-              <img src="/public/assets/LOGO STOCK ME.png" alt="Preview Aplicativo Mobile" className="project-img" />
+              <img src="/assets/LOGO STOCK ME.png" alt="Preview Aplicativo Mobile" className="project-img" />
             </div>
             <div className="project-info">
               <span className="project-category">Identidade Visual</span>
@@ -313,7 +313,7 @@ const App = () => {
           {/* Card Projeto 5 */}
           <div className="project-card">
             <div className="project-thumb">
-              <img src="/public/assets/stock me.png" alt="Preview Site Imobiliário" className="project-img" />
+              <img src="/assets/stock me.png" alt="Preview Site Imobiliário" className="project-img" />
             </div>
             <div className="project-info">
               <span className="project-category">Site - Controle de Estoque</span>
@@ -325,7 +325,7 @@ const App = () => {
           {/* Card Projeto 6 */}
           <div className="project-card">
             <div className="project-thumb">
-              <img src="/public/assets/new project.png" alt="Preview Site Imobiliário" className="project-img" />
+              <img src="/assets/new project.png" alt="Preview Site Imobiliário" className="project-img" />
             </div>
             <div className="project-info">
               <span className="project-category">Seu Projeto</span>
@@ -641,7 +641,7 @@ const App = () => {
       <footer className="footer container">
         <div className="footer-content">
           <div className="footer-logo">
-            <img src="/public/assets/logo made in devs - cortada.png" alt="Made in Dev's" className="logo-text-footer" />
+            <img src="/assets/logo made in devs - cortada.png" alt="Made in Dev's" className="logo-text-footer" />
           </div>
           <div className="footer-links">
             <a href="#inicio">Início</a>
